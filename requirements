@@ -1,0 +1,11 @@
+cat
+envsubst
+flatpak-builder
+flatpak
+ip
+make
+podman>=4.3
+python>=3.11
+sysctl
+tee
+xdg-open
